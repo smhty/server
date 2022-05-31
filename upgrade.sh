@@ -1,4 +1,4 @@
 #!/bin/bash
 tar -xvf server.tar.gz
 rm server.tar.gz
-rm server_upgrade
+rm upgrade.sh
